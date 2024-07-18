@@ -39,6 +39,8 @@ I have always bee eager to gain experience in all sorts of fields. Here is a lis
 
 - [Student Council](Experience/Non-Technical/SC/README.md)
 
+- [Best co-organiser in Graz](Experience/Non-Technical/Graz/README.md)
+
 ## Projects
 
 During my years at ENSTA Bretagne, I have worked on several projects. Here is a list of some of them:
