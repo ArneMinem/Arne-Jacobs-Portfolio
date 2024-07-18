@@ -2,38 +2,87 @@
 
 ## About
 
-This is my portfolio, where I showcase my projects and skills. I am a student at ENSTA Bretagne, a French engineering school, and I am currently studying automation and robotics. I am passionate about programming, and I am always looking for new projects to work on.
+This is my portfolio, where I showcase my projects and skills. I am a student at ENSTA Bretagne, a French engineering school, and I am currently studying automation and robotics. 
+
+I am passionate about programming, and I am always looking for new projects to work on.
 
 ## Table of Contents
 
+- [Experience](#experience)
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
 
+## Experience
+
+I have always bee eager to gain experience in all sorts of fields. Here is a list of some of the experiences I have had:
+
+### Technical Experience
+
+- [Internship at Volvo Cars Torslanda (Sweden)](Experience/Technical/Volvo_Sweden/Volvo_Sweden.md)
+
+- [UTAC Highway Challenge](Experience/Technical/UTAC/UTAC.md)
+
+- [Internship at Volvo Cars Ghent (Belgium)](Experience/Technical/Volvo_Belgium/Internship/Volvo_Belgium.md)
+
+- [Summerjob at Volvo Cars Ghent (Belgium)](Experience/Technical/Volvo_Belgium/Summerjob/Volvo_Belgium_Summer.md)
+
+- [Guerledan Adventure](Experience/Technical/Guerledan/Guerledan.md)
+
+### Non-Technical Experience
+
+- [Summerjob at STIBO de Speurneus (Belgium)](Experience/Non-Technical/STIBO.md)
+
+- [Scouts Camp Director](Experience/Non-Technical/Scouts.md)
+
+- [Junior Enterprise](Experience/Non-Technical/JE.md)
+
+- [Student Council](Experience/Non-Technical/SC.md)
+
 ## Projects
 
-### [Project 1: Autonomous Drone](
+During my years at ENSTA Bretagne, I have worked on several projects. Here is a list of some of them:
 
-This project is about developing an autonomous drone that can navigate through a forest. The drone is equipped with a camera and a LIDAR sensor, and it uses SLAM algorithms to build a map of the environment and plan its path.
+- [DartV2](DartV2.md)
 
-### [Project 2: Robot Arm Control](
+- [SLAM](SLAM.md)
 
-This project is about controlling a robot arm using inverse kinematics. The robot arm has 6 degrees of freedom, and it is controlled using a Python script that calculates the joint angles based on the desired end-effector position.
+- [C++ 3D Map Display](C++.md)
 
-### [Project 3: Computer Vision App](
+- [ROS Navigation](ROS.md)
 
-This project is about developing a computer vision app that can detect objects in images. The app uses a pre-trained neural network to classify objects in real-time, and it displays the results on the screen.
+- [Tiny car](TinyCar.md)
+
+- [Battleship Game development](Battleship.md)
+
+- [Boat creation](Boat.md)
+
+- [Boat automation](BoatAuto.md)
+
+- [CoppeliaSim](CoppeliaSim.md)
+
+- [Digital Image Processing](DIP.md)
+
+- [Guidance System](Guidance.md)
+
+- [Inertial Navigation System](INS.md)
+
+- [Kalman Filter](Kalman.md)
+
+- [Networks](Networks.md)
+
+- [Intervals](Intervals.md)
+
+- [Embedded Linux](Linux.md)
 
 ## Skills
 
-- Programming: Python, C++, Java
-- Robotics: ROS, Gazebo, MoveIt
+- Programming: Python, C++, C
+- Robotics: ROS, CoppeliaSim, RoboGuide, RobotStudio
 - Computer Vision: OpenCV, TensorFlow
-- Machine Learning: Scikit-learn, Keras
-- Web Development: HTML, CSS, JavaScript
 
 ## Contact
 
 - Email: arne.jacobs@ensta-bretagne.org
-- LinkedIn: [Arne Jacobs](https://www.linkedin.com/in/arne-jacobs/)
+- LinkedIn: [Arne Jacobs](https://www.linkedin.com/in/arne-jacobs-3340a71b5/)
 
