@@ -19,25 +19,25 @@ I have always bee eager to gain experience in all sorts of fields. Here is a lis
 
 ### Technical Experience
 
-- [Internship at Volvo Cars Torslanda (Sweden)](Experience/Technical/Volvo_Sweden/Volvo_Sweden.md)
+- [Internship at Volvo Cars Torslanda (Sweden)](Experience/Technical/Volvo_Sweden/README.md)
 
 - [UTAC Highway Challenge](Experience/Technical/UTAC/README.md)
 
-- [Internship at Volvo Cars Ghent (Belgium)](Experience/Technical/Volvo_Belgium/Internship/Volvo_Belgium.md)
+- [Internship at Volvo Cars Ghent (Belgium)](Experience/Technical/Volvo_Belgium/Internship/README.md)
 
-- [Summerjob at Volvo Cars Ghent (Belgium)](Experience/Technical/Volvo_Belgium/Summerjob/Volvo_Belgium_Summer.md)
+- [Summerjob at Volvo Cars Ghent (Belgium)](Experience/Technical/Volvo_Belgium/Summerjob/README.md)
 
-- [Guerledan Adventure](Experience/Technical/Guerledan/Guerledan.md)
+- [Guerledan Adventure](Experience/Technical/Guerledan/README.md)
 
 ### Non-Technical Experience
 
-- [Summerjob at STIBO de Speurneus (Belgium)](Experience/Non-Technical/STIBO.md)
+- [Summerjob at STIBO de Speurneus (Belgium)](Experience/Non-Technical/STIBO/README.md)
 
-- [Scouts Camp Director](Experience/Non-Technical/Scouts.md)
+- [Scouts Camp Director](Experience/Non-Technical/Scouts/README.md)
 
-- [Junior Enterprise](Experience/Non-Technical/JE.md)
+- [Junior Enterprise](Experience/Non-Technical/JE/README.md)
 
-- [Student Council](Experience/Non-Technical/SC.md)
+- [Student Council](Experience/Non-Technical/SC/README.md)
 
 ## Projects
 
