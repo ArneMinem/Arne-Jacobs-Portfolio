@@ -18,7 +18,9 @@ I was part of a team of 6 students from ENSTA Bretagne. We were all in our 4th y
 
 We were supervised by 3 teachers from the school. One was a teacher in automation and robotics and the others were teachers in vehicule architecture.
 
-We students all left in different countries for our internships and only three of us could come back for the competition.
+We started the project in December 2023 with one day a week dedicated to the project, except for the holidays and some other special occasions.
+We had to present the project at school in April 2024 before leaving for our internships.
+Since all of us left towatds different countries for our internships, only three of us could come back for the competition.
 
 ## Our vehicle
 
@@ -44,13 +46,15 @@ With the real car we were only able to detect the obstacles before hitting them.
 The competition is not only focused on the end results but also on the way you work as a team, how you present your project and the work you have accomplished during the preparation before the challenge.
 The jury was very impressed by our work, our demonstration and our presentation. Most of all, they wwere amazed by our documentation and the way we worked as a team.
 
-Thanks to our hard work and our good results we won two prizes:
+Thanks to our hard work and our good results we won two awards:
 * The 1st place of the highway challenge
-* The prize for the best prototype
+* The award for the best prototype
+
+###
 
 <img src="Prizes.jpg" alt="Trophees" width="400" height="500">
 
-## My role in the project
+## My role in the project before the competition
 
 ### LIDAR Velodyne Puck Lite
 
@@ -73,11 +77,48 @@ This program looked at the pointcloud and for all points close to eachother and 
 If this object was in the middle of the road the car would slow down gradually and stop before hitting it.
 This method filtered out all the noise from the LIDAR and only detected the obstacles since random points would not be close to eachother nor at the same distance.
 
+[Here](LIDAR/LIDAR.md) you can access a markdown I made explaining how to work with the LIDAR.
+
 ### Most of the manual work
 
-I was also in charge of most of the mechanical work. I had to install the LIDAR, the camera, the radar, and the computer in the car.
+In charge of most of the mechanical work, I had to install the LIDAR, the camera, the radar, and the computer in the car.
 I created some supports for the sensors and the computer and made sure everything was placed correctly.
 
-I also installed and connected the arduino to the car 
+I also installed and connected the arduino to the car making sure that it worked properly and was safely placed.
 
+### Assistance to the team leader
 
+When I finished with the LIDAR, I started helping out the team leader, Nicolas Damageux with the simulations on CoppeliSim and the ROS structure of the project.
+Our last weeks at school we also worked together trying out the car on our test track.
+We calibrated to GPS and the camera in order to test our programs.
+The following of the lines was not testable since it was adapted for a normal highway lane and not for an athletic track where there are a lot of lines confusing the program.
+So we tested the waypoints direction. After some tuning, the car was able to follow the waypoints correctly.
+
+## My role during the competition
+
+During the competition we had to present our project to the jury. Therefore, we had to make a presentation and a demonstration of our project.
+
+Take a look at our presentation [here](Challenge_UTAC_ENSTA_Bretagne.pdf).
+
+During the presentation I mainly explained what we did with the LIDAR and how we processed the data to detect obstacles.
+
+For the demonstration, when we arrived at the competition, we had already a bit forgotten how to run the car.
+Since I was more considered as the team's technical expert or let's say fixer, I was the one who had to make the car work.
+From the morning until our demonstration I spend my time doing that and working on the obstacle detection that we had never tried out t on the real car.
+After 3 hours of intense work, I was able to make the car work and we were able to demonstrate the obstacle detection to the jury.
+
+## Conclusion
+
+This project was a great experience.
+It really was an opportunity to learn a lot of new things and to work on a project from A to Z.
+I learned a lot about LIDARs, about teamwork, and about how to present a project to a jury.
+I also learned a lot about how to work under pressure and how to solve problems quickly.
+
+I am very proud of what we accomplished and I am very happy that we won two awards.
+I am also very happy that I was able to help my team and that I was able to make the car work during the competition.
+
+Development of:
+
+* Knowledge: LIDAR, digital image processing, automation of cars
+* Skills: programming in C++, Python, ROS, Linux, mechanical work, LaTeX, MarkDown, PointClouds, CoppeliSim, Rviz, Arduino, RQT, Git
+* Competencies: adaptability, creativity, autonomy, communication, organization, time management, teamwork, problem-solving
