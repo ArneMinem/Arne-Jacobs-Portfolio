@@ -1,5 +1,4 @@
 # 1 month at Volvo Cars Ghent as intern in the body shop with the breakdown technicians
-
 `2nd to the 27th of January 2023`
 
 ## About the team
@@ -9,29 +8,26 @@ We were the B shift of the 4th zone of the body shop, responsible for the mainte
 
 ## My role
 
-Since this was more of a learning experience than a working one, I was not given any specific tasks. Instead, I was able to follow the breakdown technicians around and learn from them.
-I helped them whenever I could, and I was able to get a good understanding of the work they do.
-When ther were no breakdowns, I was able to help with the maintenance of the tools and the workstations.
-I did spend some hours repairing buttons on the workstations, which was a nice change of pace.
-These repairs mostly consisted of soldering the buttons back to the wires that had come loose.
-Finally, I changed a lot of resistors on the workstations that had burnt out.
+Since this was more of a learning experience than a working one, I observed and learned from the breakdown technicians.
+I assisted them whenever possible and gained a good understanding of their work.
+During periods without breakdowns, I helped with tool and workstation maintenance.
+I also repaired buttons on the workstations, involving soldering buttons back to loose wires.
+Additionally, I replaced burnt-out resistors on the workstations.
 
 ## What I learned
 
-Throughout the month, I learned a lot about the body shop, Volvo Cars and how big companies work.
-I learned how to solder and how to change resistors as mentionned above.
-But I also learned a lot about PLCs and how they are used in the body shop.
-I learned how to read the PLCs and how to understand the error messages that they give.
-I also learned about welding, hydrlic presses and tube replacement, 1D and 2D lasers, inductive sensors, aso.
-I also did a complete, 11 km long, tour of the plant on my own to see how the body goes from empty shell to finished car.
+Throughout the month, I gained knowledge about the body shop, Volvo Cars, and the operations of large companies.
+I learned soldering and resistor replacement techniques, as mentioned earlier.
+I also learned about PLCs and how they are utilized in the body shop.
+I acquired the ability to read PLCs and interpret error messages.
+Furthermore, I learned about welding, hydraulic presses, tube replacement, 1D and 2D lasers, and inductive sensors.
+I independently toured the plant, covering a distance of 11 km, to observe the body's transformation into a finished car.
 
 ## Conclusion
 
-This internship was a great experience for me. I learned a lot about the body shop and how it works.
-I also learned a lot about the work of a breakdown technician and how they work.
+This internship provided me with a valuable experience in the body shop and its operations.
+I gained insights into the work of breakdown technicians and their processes.
+I acquired practical knowledge that will be beneficial in the future.
+My technical skills improved significantly.
+Moreover, I gained an understanding of the organizational structure and functioning of large companies, while enhancing my communication, teamwork, problem-solving, and adaptability skills.
 
-I gain a lot of practical knowledge that I will be able to use in the future.
-
-My skillset also improved a lot, especially the technical skillset.
-
-Finally, I learned a lot about how big companies work and how they are organized while developing my communication, teamwork, problem-solving and adaptability competencies.
