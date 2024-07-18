@@ -21,7 +21,7 @@ I have always bee eager to gain experience in all sorts of fields. Here is a lis
 
 - [Internship at Volvo Cars Torslanda (Sweden)](Experience/Technical/Volvo_Sweden/Volvo_Sweden.md)
 
-- [UTAC Highway Challenge](Experience/Technical/UTAC/UTAC.md)
+- [UTAC Highway Challenge](Experience/Technical/UTAC/README.md)
 
 - [Internship at Volvo Cars Ghent (Belgium)](Experience/Technical/Volvo_Belgium/Internship/Volvo_Belgium.md)
 
