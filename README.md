@@ -19,63 +19,47 @@ I have always bee eager to gain experience in all sorts of fields. Here is a lis
 
 ### Technical Experience
 
-- [Internship at Volvo Cars Torslanda (Sweden)](Experience/Technical/Volvo_Sweden/README.md)
+- [Internship at Volvo Cars Torslanda (Sweden)](Experiences/Technical/Volvo_Sweden/README.md)
 
-- [UTAC Highway Challenge](Experience/Technical/UTAC/README.md)
+- [UTAC Highway Challenge](Experiences/Technical/UTAC/README.md)
 
-- [Internship at Volvo Cars Ghent (Belgium)](Experience/Technical/Volvo_Belgium/Internship/README.md)
+- [Internship at Volvo Cars Ghent (Belgium)](Experiences/Technical/Volvo_Belgium/Internship/README.md)
 
-- [Summerjob at Volvo Cars Ghent (Belgium)](Experience/Technical/Volvo_Belgium/Summerjob/README.md)
+- [Summerjob at Volvo Cars Ghent (Belgium)](Experiences/Technical/Volvo_Belgium/Summerjob/README.md)
 
-- [Guerledan Adventure](Experience/Technical/Guerledan/README.md)
+- [Guerledan Adventure](Experiences/Technical/Guerledan/README.md)
 
 ### Non-Technical Experience
 
-- [Summerjob at STIBO de Speurneus (Belgium)](Experience/Non-Technical/STIBO/README.md)
+- [Summerjob at STIBO de Speurneus (Belgium)](Experiences/Non-Technical/STIBO/README.md)
 
-- [Scouts Camp Director](Experience/Non-Technical/Scouts/README.md)
+- [Scouts Camp Director](Experiences/Non-Technical/Scouts/README.md)
 
-- [Junior Enterprise](Experience/Non-Technical/JE/README.md)
+- [Junior Enterprise](Experiences/Non-Technical/JE/README.md)
 
-- [Student Council](Experience/Non-Technical/SC/README.md)
+- [Student Council](Experiences/Non-Technical/SC/README.md)
 
-- [Best co-organiser in Graz](Experience/Non-Technical/Graz/README.md)
+- [Best co-organiser in Graz](Experiences/Non-Technical/Graz/README.md)
 
 ## Projects
 
 During my years at ENSTA Bretagne, I have worked on several projects. Here is a list of some of them:
 
-- [DartV2](DartV2.md)
+- [SLAM](Projects/SLAM/README.md)
 
-- [SLAM](SLAM.md)
+- [C++ 3D Map Display](Projects/C++/README.md)
 
-- [C++ 3D Map Display](C++.md)
+- [Battleship Game development](Projects/Battleship/README.md)
 
-- [ROS Navigation](ROS.md)
+- [ROS Navigation](Projects/ROS/README.md)
 
-- [Tiny car](TinyCar.md)
+- [Tiny car](Projects/TinyCar/README.md)
 
-- [Battleship Game development](Battleship.md)
+- [Boat creation](Projects/Boat/README.md)
 
-- [Boat creation](Boat.md)
+- [CoppeliaSim](Projects/CoppeliaSim/README.md)
 
-- [Boat automation](BoatAuto.md)
-
-- [CoppeliaSim](CoppeliaSim.md)
-
-- [Digital Image Processing](DIP.md)
-
-- [Guidance System](Guidance.md)
-
-- [Inertial Navigation System](INS.md)
-
-- [Kalman Filter](Kalman.md)
-
-- [Networks](Networks.md)
-
-- [Intervals](Intervals.md)
-
-- [Embedded Linux](Linux.md)
+- [DartV2](Projects/DartV2/README.md)
 
 ## Skills
 

@@ -40,6 +40,8 @@ Once we successfully completed this challenge, we faced a consensus challenge. T
 
 In addition to programming, I also contributed to the mechanical aspects of the boat. We encountered numerous problems, resulting in multiple boat changes. We also had to replace the propellers twice and straighten the propeller shafts, as they were bent, causing the boat to veer off course.
 
+Finally, we had 1 or 2 hours long classes each morning and I redacted those in markdown files to make them accessible to everyone.
+
 ## Conclusion
 
 These two weeks were truly remarkable in several ways. Firstly, we had the opportunity to work with a real boat and witness how our code performed in real-life scenarios. Essentially, we were able to apply everything we had learned throughout the year.
