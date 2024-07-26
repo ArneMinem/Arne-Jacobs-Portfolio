@@ -23,7 +23,7 @@ We started the project in December 2023, dedicating one day a week to it (exclud
 
 We automated a white Lotus Seven, installing sensors (GPS, camera, LIDAR, and radar) and a computer to process the data.
 
-![Our vehicle](Lotus_On_Site.jpg)
+![Our vehicle](img/Lotus_On_Site.jpg)
 
 ## The highway challenge
 
@@ -42,7 +42,7 @@ We won two awards:
 * 1st place in the highway challenge
 * Best prototype award
 
-![Trophies](Prizes.jpg)
+![Trophies](img/Prizes.jpg)
 
 ## My role in the project before the competition
 
