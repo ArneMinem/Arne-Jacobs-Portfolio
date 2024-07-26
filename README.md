@@ -55,11 +55,9 @@ During my years at ENSTA Bretagne, I have worked on several projects. Here is a 
 
 - [Tiny car](Projects/TinyCar/README.md)
 
-- [Boat creation](Projects/Boat/README.md)
-
 - [CoppeliaSim](Projects/CoppeliaSim/README.md)
 
-- [DartV2](Projects/DartV2/README.md)
+- [Car Through Labyrinth](Projects/DartV2/README.md)
 
 ## Skills
 
