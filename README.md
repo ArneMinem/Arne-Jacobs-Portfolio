@@ -67,6 +67,6 @@ During my years at ENSTA Bretagne, I have worked on several projects. Here is a 
 
 ## Contact
 
-- Email: arne.jacobs@ensta-bretagne.org
-- LinkedIn: [Arne Jacobs](https://www.linkedin.com/in/arne-jacobs-3340a71b5/)
+- Email: arne.jacobs@ensta.fr or aj4023@hw.ac.uk
+- LinkedIn: [Arne Jacobs](https://www.linkedin.com/in/arne-jacobs-be-fr/)
 
