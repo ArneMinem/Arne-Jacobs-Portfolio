@@ -15,9 +15,11 @@ I am passionate about programming, and I am always looking for new projects to w
 
 ## Experience
 
-I have always bee eager to gain experience in all sorts of fields. Here is a list of some of the experiences I have had:
+I have always been eager to gain experience in all sorts of fields. Here is a list of some of the experiences I have had:
 
 ### Technical Experience
+
+- [Studentjob at Volvo Cars Ghent (Belgium)](Experiences/Technical/Volvo_Belgium/Studentjob_1/README.md)
 
 - [Internship at Volvo Cars Torslanda (Sweden)](Experiences/Technical/Volvo_Sweden/README.md)
 
@@ -39,11 +41,23 @@ I have always bee eager to gain experience in all sorts of fields. Here is a lis
 
 - [Student Council](Experiences/Non-Technical/SC/README.md)
 
-- [Best co-organiser in Graz](Experiences/Non-Technical/Graz/README.md)
+- [BEST co-organiser in Graz](Experiences/Non-Technical/Graz/README.md)
+
+- [Summer Camp in China](Experiences/Non-Technical/China/README.md)
 
 ## Projects
 
-During my years at ENSTA Bretagne, I have worked on several projects. Here is a list of some of them:
+During my years at ENSTA and Heriot-Watt, I have worked on several projects. Here is a list of some of them:
+
+- [MSc Thesis: RAPTOR-4-AUV](Projects/RAPTOR-4-AUV/README.md)
+
+- [LLM Hallucination](Projects/LLM_Hallucination/README.md)
+
+- [Chess Robot](Projects/Chess_Robot/README.md)
+
+- [Team Competition: UNIBOTS](Projects/Unibots/README.md)
+
+- [Identifying the Nutritional Score of a Prepared Meal](Projects/NutriScore/README.md)
 
 - [SLAM](Projects/SLAM/README.md)
 
