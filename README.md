@@ -2,9 +2,9 @@
 
 ## About
 
-This is my portfolio, where I showcase my projects and skills. I am a student at ENSTA Bretagne, a French engineering school, and I am currently studying automation and robotics. 
+This is my portfolio, where I showcase my projects and skills. I finished my studies in Robotics, Automation and AI at both ENSTA and Heriot-Watt University.
 
-I am passionate about programming, and I am always looking for new projects to work on.
+I am passionate about programming, robotics, and artificial intelligence, and I am always looking for new projects to work on.
 
 ## Table of Contents
 
@@ -33,6 +33,8 @@ I have always been eager to gain experience in all sorts of fields. Here is a li
 
 ### Non-Technical Experience
 
+- [Gapyear: WWOOFing on Vancouver Island before crossing through Canada by bike](Experiences/Non-Technical/Gapyear/README.md)
+
 - [Summerjob at STIBO de Speurneus (Belgium)](Experiences/Non-Technical/STIBO/README.md)
 
 - [Scouts Camp Director](Experiences/Non-Technical/Scouts/README.md)
@@ -55,7 +57,11 @@ During my years at ENSTA and Heriot-Watt, I have worked on several projects. Her
 
 - [Chess Robot](Projects/Chess_Robot/README.md)
 
+- [PSO-ANN for Concrete Compressive Strength Prediction](Projects/PSO-ANN/README.md)
+
 - [Team Competition: UNIBOTS](Projects/Unibots/README.md)
+
+- [Behaviour-based vs Evolutionary Robotics](Projects/Intelligent_Robotics/README.md)
 
 - [Identifying the Nutritional Score of a Prepared Meal](Projects/NutriScore/README.md)
 
@@ -75,9 +81,13 @@ During my years at ENSTA and Heriot-Watt, I have worked on several projects. Her
 
 ## Skills
 
-- Programming: Python, C++, C
-- Robotics: ROS, CoppeliaSim, RoboGuide, RobotStudio
+- Programming: Python, C++
+- Robotics: ROS, ROS2, CoppeliaSim, RoboGuide, RobotStudio, Webots, StoneFish, MuJoco
 - Computer Vision: OpenCV, TensorFlow
+- Machine Learning: Scikit-learn, PyTorch, JAX, MJX
+- Data Analysis: Pandas, NumPy, Matplotlib
+- Reporting: LaTeX, Markdown, Git, PowerPoint, Excel, Word
+- Environment: Linux, Windows
 
 ## Contact
 
