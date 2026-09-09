@@ -2,9 +2,7 @@
 
 ## About
 
-This is my portfolio, where I showcase my projects and skills. I finished my studies in Robotics, Automation and AI at both ENSTA and Heriot-Watt University.
-
-I am passionate about programming, robotics, and artificial intelligence, and I am always looking for new projects to work on.
+Robotics, AI, and computer vision engineer holding dual degrees from ENSTA Bretagne and Heriot-Watt University, combining deep technical rigor in autonomous systems with a strong background in leadership, project management, and international collaboration. I am focused on R&D and passionate about hands-on hardware-software integration.
 
 ## Table of Contents
 
@@ -15,7 +13,7 @@ I am passionate about programming, robotics, and artificial intelligence, and I 
 
 ## Experience
 
-I have always been eager to gain experience in all sorts of fields. Here is a list of some of the experiences I have had:
+I thrive in experimental, hands-on environments where software meets the physical world. Here is a look at my past work across industry and research:
 
 ### Technical Experience
 
@@ -86,7 +84,7 @@ During my years at ENSTA and Heriot-Watt, I have worked on several projects. Her
 - Computer Vision: OpenCV, TensorFlow
 - Machine Learning: Scikit-learn, PyTorch, JAX, MJX
 - Data Analysis: Pandas, NumPy, Matplotlib
-- Reporting: LaTeX, Markdown, Git, PowerPoint, Excel, Word
+- Tools & Documentation: LaTeX, Markdown, Git, PowerPoint, Excel, Word
 - Environment: Linux, Windows
 
 ## Contact
