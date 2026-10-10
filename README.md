@@ -77,13 +77,21 @@ During my years at ENSTA and Heriot-Watt, I have worked on several projects. Her
 
 - [Car Through Labyrinth](Projects/DartV2/README.md)
 
+- [Parachute Simulation](Projects/Parachute/README.md)
+
 ## Skills
 
-- Programming: Python, C++
-- Robotics: ROS, ROS2, CoppeliaSim, RoboGuide, RobotStudio, Webots, StoneFish, MuJoco
-- Computer Vision: OpenCV, TensorFlow
-- Machine Learning: Scikit-learn, PyTorch, JAX, MJX
+## Skills
+
+## Skills
+
+- Programming: Python, C++, Matlab
+- Robotics: ROS, ROS2, CoppeliaSim, RoboGuide, RobotStudio, Webots, StoneFish, MuJoCo
+- Machine Learning & AI: PyTorch, JAX, MJX, TensorFlow, Scikit-learn, reinforcement learning, imitation learning
+- Computer Vision: OpenCV, image processing (PIL)
 - Data Analysis: Pandas, NumPy, Matplotlib
+- Simulation & Modelling: CFD (SolidWorks Flow Simulation), fluid mechanics, numerical methods (ODE solving), dynamics modelling
+- CAD: SolidWorks, Inventor, CATIA V5, SketchUp
 - Tools & Documentation: LaTeX, Markdown, Git, PowerPoint, Excel, Word
 - Environment: Linux, Windows
 
