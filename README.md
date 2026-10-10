@@ -81,10 +81,6 @@ During my years at ENSTA and Heriot-Watt, I have worked on several projects. Her
 
 ## Skills
 
-## Skills
-
-## Skills
-
 - Programming: Python, C++, Matlab
 - Robotics: ROS, ROS2, CoppeliaSim, RoboGuide, RobotStudio, Webots, StoneFish, MuJoCo
 - Machine Learning & AI: PyTorch, JAX, MJX, TensorFlow, Scikit-learn, reinforcement learning, imitation learning
