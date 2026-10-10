@@ -54,7 +54,7 @@ C = 2F / (rho * S * v^2)
 
 Result: `C` stays almost constant over the speed range, at about **1.435**, which is consistent with the value of 1.42 used in the analytical model.
 
-![No vent](no-vent.png)
+![No vent](no_vent.png)
 ![With vent](vent.png)
 
 ## 4. Experiments
